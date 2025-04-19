@@ -1,1 +1,5 @@
-
+This  toolkit assists in detecting, preventing, and recovering from deadlocks in operating systems. It employs:​
+Banker's Algorithm for deadlock prevention
+Resource Allocation Graphs (RAGs) for deadlock detection
+Process termination or resource preemption strategies for recovery​
+A user-friendly GUI built with Tkinter allows for interactive simulations, and visualizations are rendered using NetworkX and Matplotlib.​
